@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>LinkedFundsProject</Name>
+  <LastModifiedBy>LawrenceTsang</LastModifiedBy>
+  <LastModifiedOn xsi:nil="true" />
+  <CreatedOn xsi:nil="true" />
+  <Folder>false</Folder>
+  <LastModified>2026-03-16T09:05:43.6816668+00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <CreateDate>2026-03-16T09:05:43.6816668+00:00</CreateDate>
+  <UserId>LawrenceTsang</UserId>
+  <AppVersion>6000</AppVersion>
+  <VersionNo>1.000</VersionNo>
+  <CompanyName>Software Alliance Limited</CompanyName>
+  <Logo>C:\Users\LawrenceTsang\AppData\Local\Software Alliance\Mo.net 7.7\Mo.net Model Development Studio\Repositories2\repo04\LinkedFundsProject\Logo\SAL.png</Logo>
+  <Documentation>C:\Users\LawrenceTsang\AppData\Local\Software Alliance\Mo.net 7.7\Mo.net Model Development Studio\Repositories2\repo04\LinkedFundsProject\Documentation\Mo.net_Sample_Projects_LinkedFunds_Model_v1.00_User_Guide_v2.pdf</Documentation>
+  <DocumentationBackedUp>true</DocumentationBackedUp>
+  <CommitDate>0001-01-01T00:00:00</CommitDate>
+  <References />
+  <ExternalSourceControl>true</ExternalSourceControl>
+  <DisableLastModified>true</DisableLastModified>
+  <RevisionIds>
+    <item>
+      <key>
+        <int>1</int>
+      </key>
+      <value>
+        <string>b84936be-ee8f-4488-bfd5-ca6492a3c137</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>2</int>
+      </key>
+      <value>
+        <string>48a0b1ae-e131-45a4-b810-5694c228c42a</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>3</int>
+      </key>
+      <value>
+        <string>a26669da-0a2d-45cb-ae44-5b5981c163cf</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>4</int>
+      </key>
+      <value>
+        <string>3515189e-acf8-4d21-bf37-b62d27cdb0a6</string>
+      </value>
+    </item>
+    <item>
+      <key>
+        <int>5</int>
+      </key>
+      <value>
+        <string>b2e27b41-7f68-4cef-9cc2-4f4a9db23778</string>
+      </value>
+    </item>
+  </RevisionIds>
+  <CommitRef>9d247e2</CommitRef>
+  <OpenAsReadOnly>false</OpenAsReadOnly>
+</Project>

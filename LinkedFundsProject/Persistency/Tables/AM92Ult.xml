@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>AM92Ult</Name>
+  <Parent>Mortality</Parent>
+  <Previous />
+  <LastModifiedOn>0001-01-01T00:00:00</LastModifiedOn>
+  <CreatedBy>LawrenceTsang</CreatedBy>
+  <CreatedOn>2026-03-16T09:05:44.1519248Z</CreatedOn>
+  <Key>AM92Ult</Key>
+  <Folder>false</Folder>
+  <LastModified>0001-01-01T00:00:00</LastModified>
+  <Notes />
+  <IsExpanded>true</IsExpanded>
+  <IsProjectTable>true</IsProjectTable>
+  <IsDataSource>false</IsDataSource>
+  <IsODBCSource>false</IsODBCSource>
+  <IsWebDataSource>false</IsWebDataSource>
+  <IsDatFileSource>false</IsDatFileSource>
+  <IsDatabaseConnection>false</IsDatabaseConnection>
+  <WebDataSourceIsAdvanced>false</WebDataSourceIsAdvanced>
+  <FilePath>Tables\AM92Ult.txt</FilePath>
+  <FileName />
+  <Schema />
+  <Reference />
+  <Delimiter>	</Delimiter>
+  <Internal>false</Internal>
+  <LookUpType>Row</LookUpType>
+  <BasisTable>false</BasisTable>
+  <LookUpVars />
+  <IndexCols>1</IndexCols>
+  <DoubleType>true</DoubleType>
+  <Rows>1</Rows>
+  <Cols>1</Cols>
+  <ColWidths>55;95</ColWidths>
+  <HasHeadings>true</HasHeadings>
+  <RunControlTable>false</RunControlTable>
+</Table>

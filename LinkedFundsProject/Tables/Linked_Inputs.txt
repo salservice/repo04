@@ -1,0 +1,4 @@
+PolNo	Sex1	AgeEnt1	FundType	SumAssured	PeriodIF	Term	PremFreq	PremInit_Equity	PremInit_FI	PremInit_Cash	PremInit_Prop
+1	0	35	Equity	100000	0	20	4	480	360	240	120
+2	0	56	FI	100000	0	20	4	120	360	240	120
+3	0	48	Cash	100000	0	20	4	0	360	240	120
